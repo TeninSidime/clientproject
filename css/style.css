@@ -1,3 +1,12 @@
 h1 {
   color: fuchsia;
 }
+
+body{
+    background: url("https://www.google.com/imgres?imgurl=https%3A%2F%2Fsolarsystem.nasa.gov%2Fsystem%2Fstellar_items%2Fimage_files%2F4_earth.jpg&imgrefurl=https%3A%2F%2Fsolarsystem.nasa.gov%2Fplanets%2Fearth%2Foverview%2F&docid=HPlcvcF6fkT-eM&tbnid=xA7gSC5nUQBaIM%3A&vet=10ahUKEwiflp6QqPvhAhW-HjQIHagYAjUQMwhtKAQwBA..i&w=1041&h=569&hl=en&authuser=0&bih=641&biw=1366&q=earth&ved=0ahUKEwiflp6QqPvhAhW-HjQIHagYAjUQMwhtKAQwBA&iact=mrc&uact=8");
+}
+
+.Tagsbuttons {
+    display:flex;
+    justify-content: space-around;
+}
