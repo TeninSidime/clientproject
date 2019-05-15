@@ -29,7 +29,7 @@ $("#getData").click(function (){
     } else {
         // https://api.openweathermap.org/data/2.5/weather?zip=94040,us&appid=b6907d289e10d714a6e88b30761fae22
         
-        var apiURL = 'https://api.openweathermap.org/data/2.5/weather?zip=' + zipString + ',us&appid=390848c94df3318563d07d23be4f4da3';
+        var apiURL = 'https://api.openweathermap.org/data/2.5/weather?zip=' + zipString + ',us&appid=3bb00f30e525b91a1deb9cbd20254379';
         console.log(apiURL);
     }
     // 40.7128° N, 74.0060°
